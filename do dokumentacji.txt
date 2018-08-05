@@ -1,0 +1,4 @@
+pliki:
+	klient2.cpp
+	main.h
+	config.php
